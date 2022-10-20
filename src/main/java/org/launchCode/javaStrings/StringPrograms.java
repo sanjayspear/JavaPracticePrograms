@@ -20,6 +20,7 @@ public class StringPrograms {
         System.out.println("The character at position 0 is " + x);
         System.out.println("The character at position 10 is " + y);
         System.out.println("The character at position 10 is " + y);
+        System.out.println("The character at position 10 is " + y);
 
         //Approach 2
         char a = str.charAt(0);
